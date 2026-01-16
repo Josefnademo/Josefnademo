@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontAlignY=81&reversal=true&section=header&descAlignY=24&descAlign=90"/>
 </p>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yosef-nademo-52a62a380/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/recorayt)
 
@@ -11,8 +12,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Josefnademo&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Josefnademo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Josefnademo&icon=10&color=11)](https://visitcount.itsvg.in)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontAlignY=81&reversal=true&section=footer&descAlignY=24&descAlign=90"/>
 </p>
