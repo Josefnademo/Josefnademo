@@ -9,11 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=vue,docker,nodejs,npm,express,js,html,css,adonis,cypress,jest,electron,py,cs,dotnet,mysql,mongodb,sqlite,redis,sequelize,nginx,azure,tensorflow,powershell,bash,git,figma)](https://skillicons.dev)
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Josefnademo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
-  <br>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Josefnademo&theme=tokyonight&hide_border=false" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josefnademo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontAlignY=81&reversal=true&section=footer&descAlignY=24&descAlign=90"/>
