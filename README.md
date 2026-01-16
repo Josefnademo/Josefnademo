@@ -4,8 +4,6 @@
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=vue,docker,nodejs,npm,express,js,html,css,adonis,cypress,jest,electron,py,cs,dotnet,mysql,mongodb,sqlite,redis,sequelize,nginx,powershell,azure,tensorflow,git,figma)](https://skillicons.dev)
-
-(https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Insomnia](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop]
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Josefnademo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Josefnademo&theme=tokyonight&hide_border=false)<br/>
