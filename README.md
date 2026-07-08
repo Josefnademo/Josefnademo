@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yosef-nademo-52a62a380/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/recorayt)
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=vue,docker,nodejs,npm,express,js,html,css,adonis,cypress,jest,electron,py,cs,dotnet,mysql,mongodb,sqlite,redis,sequelize,nginx,azure,tensorflow,powershell,bash,git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,docker,nodejs,npm,express,js,ts,html,css,vite,adonis,cypress,jest,electron,php,py,cs,dotnet,mysql,mongodb,sqlite,redis,sequelize,nginx,azure,tensorflow,powershell,bash,git,figma)](https://skillicons.dev)
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Josefnademo&theme=tokyonight&hide_border=false" />
